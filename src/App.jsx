@@ -38,7 +38,6 @@ function App() {
         <section id="home" className="hero section">
           <div className="container hero-grid">
             <div className="hero-content">
-              <img src="/profile.jpeg" alt="Photo de profil d'Amine Abdli" className="profile-photo fade-in" />
               <p className="eyebrow fade-up delay-1">Développeur Web Full Stack</p>
               <h1 className="fade-up delay-2">Amine Abdli</h1>
               <p className="lead fade-up delay-3">
